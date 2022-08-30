@@ -3,3 +3,22 @@ body{
   margin: 10px;
   background-color: #a14409;
 }
+div{
+  background-color: rgb(138, 138, 138);
+  width: 400px;
+  height: 400px;
+  align-items: center;
+
+}
+img{
+  padding: 10px;
+  width: auto;
+
+}
+h1
+{
+  text-align: center;
+  color: blue;
+  background: white;
+  border: 3px solid black;
+}
